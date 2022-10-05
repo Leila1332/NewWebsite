@@ -1,5 +1,5 @@
 function WelcomeMessage() {
-    alert("****welcome  to my site****"):
+    alert("****welcome  to my site****")
 }
 
 function GotoPage5() {
